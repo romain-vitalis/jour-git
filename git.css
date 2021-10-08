@@ -1,0 +1,18 @@
+tbody tr:nth-child(odd) {
+    background-color:white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 500px;
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid blue;
+  }
+  
+  tbody tr:nth-child(even) {
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+  table{
+      box-shadow:4px 3px 3px blueviolet;
+  }
